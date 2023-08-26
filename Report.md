@@ -4,7 +4,7 @@
 
 ## Отчёт по итогам автоматизированного тестирования
 
-В соответствии с [Планом](https://github.com/FecklaSveckla/Diplom/blob/main/docs/Plan.md) было проведено автоматизированное тестирование веб-сервиса покупки тура.
+В соответствии с [Планом](https://github.com/DAP2106/Diplom/blob/main/Plan.md) было проведено автоматизированное тестирование веб-сервиса покупки тура.
 
 #### В ходе автоматизации тестирования были реализованы:
 - позитивные и негативные сценарии тестов;
@@ -21,10 +21,11 @@
 
 
 ### Отчет Allure: 
+![Screenshot_7](https://github.com/DAP2106/Diplom/assets/127188384/03fae248-58f1-45e9-938f-1aec02844b10)
+![Screenshot_8](https://github.com/DAP2106/Diplom/assets/127188384/9e06519e-ef04-410d-9c94-a5f1385ebbb4)
+![Screenshot_9](https://github.com/DAP2106/Diplom/assets/127188384/91b8aa66-8045-4878-aa97-069c89f8817c)
+![Screenshot_10](https://github.com/DAP2106/Diplom/assets/127188384/95e3702f-00f9-46ab-b18a-6ad159b18eca)
 
-![Screenshot_5](https://github.com/DAP2106/Diplom/assets/127188384/bca5d85a-f31b-4889-9edb-572274bd15bb)
-
-![Screenshot_6](https://github.com/DAP2106/Diplom/assets/127188384/86fa14a1-3252-4257-a7bc-ac30037c5672)
 
 
 #### Рекомендации:
